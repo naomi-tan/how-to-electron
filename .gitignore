@@ -1,3 +1,6 @@
+windows_installer/
+how-to-electron-win32-x64/
+
 # Logs
 logs
 *.log
